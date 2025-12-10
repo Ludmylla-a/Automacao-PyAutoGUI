@@ -1,2 +1,8 @@
-# Automacao-PyAutoGUI
-Automação de tarefas com Python e PyAutoGUI para aula de TOEPI
+
+# Automação com PyAutoGUI — Pesquisa de Clima
+
+Atividade pedida em aula: automatizar pesquisa no Google e salvar print.
+
+## Como executar
+pip install pyautogui pillow
+python main.py
